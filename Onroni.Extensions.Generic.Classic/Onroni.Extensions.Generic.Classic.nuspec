@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Onroni.Extensions.Generic.Classic</id>
+    <version>0.0.1</version>
+    <title>Generic Extensions for .Net Framework</title>
+    <authors>Onroni</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/ronistiawan/Onroni.Extensions.Generic</projectUrl>
+    <iconUrl>https://i.ibb.co/Hpcx0nR/onroni-logo.png</iconUrl>
+    <description>Some helpful extension for IEnumerable</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Open</copyright>
+    <tags>C# IEnumerable</tags>
+  </metadata>
+</package>
